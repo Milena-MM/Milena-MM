@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=header"/>
 
-## Olá! Eu sou o Milena Melo 🫨
+## Olá! Eu sou a Milena Melo 🫨
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/foca_croche/?igsh=MWh0MmJwNncxdm5wcg%3D%3D)
